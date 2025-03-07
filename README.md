@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 -->
 
 これは個人プロジェクトです。
+
+✨ OS
+✨ 言語
+✨ FW
+✨ OS
+✨ DB
+✨ Other
