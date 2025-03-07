@@ -15,11 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 これは個人プロジェクトです。
 
-✨ OS
-✨ 言語
-✨ FW
-✨ OS
-✨ DB
-✨ Other
+
+## 🌱 開発環境
+
+**✨ OS**
+
+windows,Linux
+
+**✨ 言語**
+
+HTML,CSS,Javascript
+
+**✨ FW**
+
+Vue3
+
+**✨ DB**
+
+**✨ Other**
