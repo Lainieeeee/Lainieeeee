@@ -2,7 +2,7 @@
 Welcome to my profile! Here are my skills and tools I use.
 
 ## My Skill 🪴
-Here are the technologies and tools I'm familiar with.
+These are the technologies and tools I've used in my work or collaborated on.  
 
 
 🖥️ **Front-end** 
