@@ -1,4 +1,30 @@
 ## Hi there 👋
+Welcome to my profile! Here are my skills and tools I use.
+
+## My Skill 🪴
+Here are the technologies and tools I'm familiar with.
+
+
+🖥️ **Front-end** 
+
+　　[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,sass,tailwind,bootstrap,vite,vue)](https://skillicons.dev)   
+
+🛠️ **Back-end & Database** 
+
+　　[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,nodejs)](https://skillicons.dev)  
+
+🖥️ **Tools & OS**  
+
+　　[![My Skills](https://skillicons.dev/icons?i=git,github,npm,linux,ubuntu,windows,vscode)](https://skillicons.dev)  
+
+🎨 **Design & Others**  
+
+　　[![My Skills](https://skillicons.dev/icons?i=figma,notion,ps,ai,discord)](https://skillicons.dev)  
+
+
+
+
+
 
 <!--
 **Lainieeeee/Lainieeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,25 +40,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-これは個人プロジェクトです。
-
-
-## 🌱 開発環境
-
-**✨ OS**
-
-windows,Linux
-
-**✨ 言語**
-
-HTML,CSS,Javascript
-
-**✨ FW**
-
-Vue3
-
-**✨ DB**
-
-**✨ Other**
